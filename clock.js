@@ -18,11 +18,11 @@ function clock() {
     secs = secs < 10 ? `0${secs}` : secs;
 
     let time = `${hrs}:${mins}:${secs} ${period}`;
-    setInterval(clock, 1000);
+    
     document.getElementById("clock").innerHTML = time;
 }
 
-clock();
+setInterval(clock, 1000);
 
 // <Countdown bis> Definition - Aufgabe 2.
 let countDownDate = new Date("Feb 17, 2022 17:00:00");
