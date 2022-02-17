@@ -4,4 +4,4 @@
 2) Countdown in oranger Schrift
 3) Kalender, wie auch Start-Button für den Countdown
 
-Vermerk: Uhr hat "Hick-up's". Sollte noch gelöst werden. 
+Vermerk: Stoppuhr hat "Hick-up's". Sollte noch gelöst werden. 
