@@ -1,0 +1,35 @@
+    /* für Mobile-Sicht geeignet */
+    body {
+        background-color: #aee666;
+        margin: 25px;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Courier New", sans-serif;
+      }
+  
+      #clock {
+        height: 145px;
+        width: 100%;
+        background-color: #14080e;
+        color: #9ed3eb;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
+      }
+  
+      #timer {
+        height: 115px;
+        width: 100%;
+        background-color: #14080e;
+        color: #ebc39e;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 40px;
+      }
+  
+      .date-button {
+        display: block;
+        margin-top: 25px;
+      }
